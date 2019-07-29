@@ -1,0 +1,14 @@
+C:\code\mitest\SocialVeterinaryService\bin\Debug\netcoreapp2.2\SocialVeterinaryService.deps.json
+C:\code\mitest\SocialVeterinaryService\bin\Debug\netcoreapp2.2\SocialVeterinaryService.runtimeconfig.json
+C:\code\mitest\SocialVeterinaryService\bin\Debug\netcoreapp2.2\SocialVeterinaryService.runtimeconfig.dev.json
+C:\code\mitest\SocialVeterinaryService\bin\Debug\netcoreapp2.2\SocialVeterinaryService.dll
+C:\code\mitest\SocialVeterinaryService\bin\Debug\netcoreapp2.2\SocialVeterinaryService.pdb
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.csproj.CoreCompileInputs.cache
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.RazorAssemblyInfo.cache
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.RazorAssemblyInfo.cs
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.AssemblyInfoInputs.cache
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.AssemblyInfo.cs
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.RazorTargetAssemblyInfo.cache
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.dll
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.pdb
+C:\code\mitest\SocialVeterinaryService\obj\Debug\netcoreapp2.2\SocialVeterinaryService.csprojAssemblyReference.cache
